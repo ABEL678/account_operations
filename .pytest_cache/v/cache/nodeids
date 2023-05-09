@@ -1,0 +1,6 @@
+[
+  "test_utils.py::test_get_data_format",
+  "test_utils.py::test_get_executed",
+  "test_utils.py::test_get_last_5",
+  "test_utils.py::test_get_operations"
+]
